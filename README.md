@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hari.....
-- 📫 How to reach me ... get permission from naruto , hashirama, rust 
+- 📫 How to reach me ... get permission from naruto
 
 <!---
 HashiramaSenjuhari/HashiramaSenjuhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
