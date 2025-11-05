@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Hari.....
+- 👋 im hari
 - 📫 How to reach me ... get permission from naruto
+- i love people who are exploring the universe and myself
+- native speaker of rust | android | linux
 
-<!---
-HashiramaSenjuhari/HashiramaSenjuhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Meet My close friend Rust and new friend Go hee hee they are my close firends
---->
